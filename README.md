@@ -24,6 +24,6 @@ git clone https://github.com/seu_usuario/conversor-de-moedas.git
 ```java
 private static final String API_KEY = "SUA_CHAVE_DE_API_AQUI";
 ```
-5.Compile e execute o aplicativo.
+5. Compile e execute o aplicativo.
 
-6.Siga as instruções no console para realizar conversões de moedas.
+6. Siga as instruções no console para realizar conversões de moedas.
